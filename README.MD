@@ -1,3 +1,3 @@
-# 10-11-dcc078-facade
+# 10-11-dcc078-proxy
 
 ![Diagrama](./diagrama-proxy.png)
